@@ -54,7 +54,7 @@ Action Required:
 - Transaction status updates
 - Success/failure notifications
 
-## 3. TRADER JOURNEY
+## 3. [TRADER JOURNEY](https://www.mermaidchart.com/raw/87d45b99-6ace-4a38-9202-0f7a8138dc56?theme=light&version=v0.1&format=svg)
 A. Discovery Flow
 Entry Points:
 - TLink from Twitter
