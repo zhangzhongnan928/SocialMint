@@ -25,7 +25,7 @@ Error Handling:
   * How to fix it
   * Example of correct format
 
-## 2. FEE RECIPIENT JOURNEY
+## 2. [FEE RECIPIENT JOURNEY](https://www.mermaidchart.com/raw/98d7dc0e-76e0-4c2a-b81f-a8d8cfe40b10?theme=light&version=v0.1&format=svg)
 A. Notification Flow
 Discovery:
 - Recipient gets notified when:
