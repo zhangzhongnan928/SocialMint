@@ -78,7 +78,7 @@ Integration:
 # CRITICAL UX ELEMENTS
 
 ## 1.ONBOARDING
-First-Time User:
+[First-Time User](https://www.mermaidchart.com/raw/2b591e56-ba38-49a8-883e-04ff16a18569?theme=light&version=v0.1&format=svg):
 - Minimal steps to get started
 - Clear value proposition
 - Quick wins highlighted
