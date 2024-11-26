@@ -90,7 +90,7 @@ Key Information:
 - Fee structure
 - Basic safety tips
 
-## 2.NOTIFICATION SYSTEM
+## 2.[NOTIFICATION SYSTEM](https://www.mermaidchart.com/raw/2070199e-a131-4b6a-95ec-9d70ce258cb5?theme=light&version=v0.1&format=svg)
 Priority Alerts:
 - Coin creation status
 - Fee generation events
