@@ -104,7 +104,7 @@ Notification Channels:
 - Email notifications (optional)
 - Apple/Google Wallet notifications (optional)
 
-## 3.ERROR HANDLING
+## 3.[ERROR HANDLING](https://www.mermaidchart.com/raw/52142329-3707-4689-a16a-8a3cadf6e930?theme=light&version=v0.1&format=svg)
 
 User Guidance:
 - Clear error messaging
