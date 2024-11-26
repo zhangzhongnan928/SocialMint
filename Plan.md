@@ -1,5 +1,6 @@
 PHASE 1: MVP LAUNCH (Week 1)
 Monday-Tuesday: Core Infrastructure
+
 □ Twitter Bot Setup
   - Basic command: @OurTwitterBot create [name] [symbol] [recipient]
   - Integration with Wow.xyz for minting
