@@ -1,5 +1,6 @@
 # CORE USER JOURNEYS
 ## 1. MEME COIN CREATION JOURNEY
+https://www.mermaidchart.com/raw/4317b5ad-7fc0-42e1-9179-aced7020542f?theme=light&version=v0.1&format=svg
 A. Tweet Interaction Flow
 Initial Touchpoint:
 - User discovers @SocialMintBot through:
