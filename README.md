@@ -164,3 +164,10 @@ Built by SmartLayer Labs 🏗️
    - He verifies ownership of his Twitter ID.
    - Upon verification, he can claim his
 
+
+The 1% Uniswap LP fees have the following split:  
++ 50% creator  
++ 25% platform  
++ 25% wow  
+
+
