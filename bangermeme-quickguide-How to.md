@@ -4,7 +4,7 @@
 Tag @SmartSocialMint:
 ```
 Name: MoonMeme
-Symbol: MOON
+Ticker: MOON
 Rewards To: @creator
 Description: 🚀
 ```
